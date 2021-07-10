@@ -335,5 +335,3 @@ ASALocalRun/
 Release MySQL/ghost_log.txt
 Debug MySQL/ghost_log.txt
 *.tlog
-*.tlog
-*.tlog
