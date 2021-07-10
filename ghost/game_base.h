@@ -184,6 +184,8 @@ public:
 	virtual bool GetLagging( )						{ return m_Lagging; }
 	virtual vector<CGameSlot> GetSlots( )			{ return m_Slots; }
 	virtual vector<CGamePlayer *> GetPlayers()		{ return m_Players; }
+	virtual vector<CGameSlot>* GetSlotsPtr()		{ return &m_Slots; }
+	virtual vector<CGamePlayer*>* GetPlayersPtr()	{ return &m_Players; }
 	virtual string GetStatString()					{ return m_StatString; }
 	virtual uint32_t GetFakePlayerPID()			    { return m_FakePlayerPID;  }
 

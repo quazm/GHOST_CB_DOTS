@@ -172,19 +172,19 @@ void CStatusBroadcaster::SendSlot(CBaseGame* game, CTCPStatusBroadcasterSocket* 
 		}
 		else
 		{
-			vector<CGameSlot> gameSlots = game->GetSlots();
-			vector<CGamePlayer*> gamePlayers = game->GetPlayers();
-			packetSlots.push_back(uint8_t(gameSlots.size()));														// количество слотов			uint8_t			1 байт
+			vector<CGameSlot>* gameSlots = game->GetSlotsPtr();
+			vector<CGamePlayer*>* gamePlayers = game->GetPlayersPtr();
+			packetSlots.push_back(uint8_t(gameSlots->size()));														// количество слотов			uint8_t			1 байт
 
 			int SID = 0; //slot id
-			for (vector<CGameSlot> ::iterator i = gameSlots.begin(); i != gameSlots.end(); i++)
+			for (vector<CGameSlot> ::iterator i = gameSlots->begin(); i != gameSlots->end(); i++)
 			{
 				if (i->GetSlotStatus() == SLOTSTATUS_OCCUPIED && i->GetComputer() == 0) //условие, что игрок	
 				{
-					for (vector<CGamePlayer*> ::iterator p = gamePlayers.begin(); p != gamePlayers.end(); p++) //ищем им¤ игрока
-						if (SID == game->GetSIDFromPID((*p)->GetPID()))								
+					for (vector<CGamePlayer*> ::iterator p = gamePlayers->begin(); p != gamePlayers->end(); p++) //ищем им¤ игрока
+						if (SID == game->GetSIDFromPID((*p)->GetPID()))
 							if ((*p)->GetName() != "")
-									UTIL_AppendByteArrayFast(packetSlots, string((*p)->GetName()), false);
+								UTIL_AppendByteArrayFast(packetSlots, string((*p)->GetName()), false);
 				}
 				else if (i->GetSlotStatus() == SLOTSTATUS_OCCUPIED && i->GetComputer() == 1) //условие, что комп
 					UTIL_AppendByteArrayFast(packetSlots, string("COMPUTER"), false);
@@ -195,8 +195,8 @@ void CStatusBroadcaster::SendSlot(CBaseGame* game, CTCPStatusBroadcasterSocket* 
 				else
 					UTIL_AppendByteArrayFast(packetSlots, string("OUT OF GAME"), false); //ливер
 
-				if ( distance(i, gameSlots.end()) > 1 )		 // не последний слот
-					if( i->GetTeam() != next(i)->GetTeam() ) // тима помен¤лась, добавл¤ем тег в ник, что бы раздел¤ть тимы
+				if (distance(i, gameSlots->end()) > 1)		 // не последний слот
+					if (i->GetTeam() != next(i)->GetTeam()) // тима помен¤лась, добавл¤ем тег в ник, что бы раздел¤ть тимы
 						UTIL_AppendByteArrayFast(packetSlots, string("{NEXT_TEAM}"), false);
 
 				packetSlots.push_back(uint8_t(0)); // "\n"
