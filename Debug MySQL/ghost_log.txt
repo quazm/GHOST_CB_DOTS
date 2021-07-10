@@ -1,0 +1,1588 @@
+[Thu Jun 17 18:04:56 2021] [GHOST] starting up
+[Thu Jun 17 18:04:56 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Thu Jun 17 18:04:56 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Thu Jun 17 18:04:56 2021] [GHOST] starting winsock
+[Thu Jun 17 18:04:56 2021] [GHOST] setting process priority to "above normal"
+[Thu Jun 17 18:04:56 2021] [UDPSOCKET] using default broadcast target
+[Thu Jun 17 18:04:56 2021] [GHOST] opening primary database
+[Thu Jun 17 18:04:56 2021] [SQLITE3] version 3.6.16
+[Thu Jun 17 18:04:56 2021] [SQLITE3] opening database [ghost.dbs]
+[Thu Jun 17 18:04:56 2021] [SQLITE3] found schema number [8]
+[Thu Jun 17 18:04:56 2021] [GHOST] opening secondary (local) database
+[Thu Jun 17 18:04:56 2021] [SQLITE3] version 3.6.16
+[Thu Jun 17 18:04:56 2021] [SQLITE3] opening database [ghost.dbs]
+[Thu Jun 17 18:04:56 2021] [SQLITE3] found schema number [8]
+[Thu Jun 17 18:04:56 2021] [GHOST] attempting to find local IP addresses
+[Thu Jun 17 18:04:56 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Thu Jun 17 18:04:56 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Thu Jun 17 18:04:56 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Thu Jun 17 18:04:56 2021] [CONFIG] loading file [language.cfg]
+[Thu Jun 17 18:04:56 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Thu Jun 17 18:04:56 2021] [GHOST] using system locale of 2057
+[Thu Jun 17 18:04:56 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Thu Jun 17 18:04:56 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Thu Jun 17 18:04:56 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Thu Jun 17 18:04:56 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Thu Jun 17 18:04:56 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_size = 160 203 1 0
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_info = 115 42 226 229
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_crc = 227 181 210 129
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_options = 4
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_width = 80 0
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_height = 80 0
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_numplayers = 2
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_numteams = 1
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Thu Jun 17 18:04:56 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Thu Jun 17 18:04:56 2021] [MAP] found melee map, initializing slots
+[Thu Jun 17 18:04:56 2021] [MAP] adding 10 observer slots
+[Thu Jun 17 18:04:56 2021] [GHOST] using hardcoded admin game map
+[Thu Jun 17 18:04:56 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Thu Jun 17 18:04:56 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Thu Jun 17 18:04:56 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Thu Jun 17 18:04:56 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Thu Jun 17 18:04:56 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Thu Jun 17 18:04:56 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Thu Jun 17 18:04:56 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:00:58 2021] [GHOST] starting up
+[Fri Jun 18 01:00:58 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Fri Jun 18 01:00:58 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Fri Jun 18 01:00:58 2021] [GHOST] starting winsock
+[Fri Jun 18 01:00:58 2021] [GHOST] setting process priority to "above normal"
+[Fri Jun 18 01:00:58 2021] [UDPSOCKET] using default broadcast target
+[Fri Jun 18 01:00:58 2021] [GHOST] opening primary database
+[Fri Jun 18 01:00:58 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:00:58 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:00:58 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:00:58 2021] [GHOST] opening secondary (local) database
+[Fri Jun 18 01:00:58 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:00:58 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:00:58 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:00:58 2021] [GHOST] attempting to find local IP addresses
+[Fri Jun 18 01:00:58 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Fri Jun 18 01:00:58 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Fri Jun 18 01:00:58 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:00:58 2021] [CONFIG] loading file [language.cfg]
+[Fri Jun 18 01:00:58 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Fri Jun 18 01:00:58 2021] [GHOST] using system locale of 2057
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Fri Jun 18 01:00:58 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Fri Jun 18 01:00:58 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Fri Jun 18 01:00:58 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Fri Jun 18 01:00:58 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_size = 160 203 1 0
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_info = 115 42 226 229
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_crc = 227 181 210 129
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_options = 4
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_width = 80 0
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_height = 80 0
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_numplayers = 2
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_numteams = 1
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Fri Jun 18 01:00:58 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Fri Jun 18 01:00:58 2021] [MAP] found melee map, initializing slots
+[Fri Jun 18 01:00:58 2021] [MAP] adding 10 observer slots
+[Fri Jun 18 01:00:58 2021] [GHOST] using hardcoded admin game map
+[Fri Jun 18 01:00:58 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Fri Jun 18 01:00:58 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Fri Jun 18 01:00:58 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Fri Jun 18 01:00:58 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Fri Jun 18 01:00:58 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] connected
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] cd keys accepted
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Fri Jun 18 01:00:58 2021] [BNET: rubattle] logon successful
+[Fri Jun 18 01:00:59 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Fri Jun 18 01:00:59 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle]  
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] There are currently 398 users in 101 games of Warcraft III Frozen Throne, and 599 users in 173 games and 35 channels.
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] You have no mail.
+[Fri Jun 18 01:00:59 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Fri Jun 18 01:00:59 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] Enjoy!
+[Fri Jun 18 01:00:59 2021] [INFO: rubattle] Last login: Thu Jun 17 15:04 2021
+[Fri Jun 18 01:01:08 2021] [GHOST] creating game [test]
+[Fri Jun 18 01:01:08 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Fri Jun 18 01:01:08 2021] [GAME: test] attempting to bind to all available addresses
+[Fri Jun 18 01:01:08 2021] [GAME: test] listening on port 6115
+[Fri Jun 18 01:01:08 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Fri Jun 18 01:01:08 2021] online check
+[Fri Jun 18 01:01:08 2021] [INFO: rubattle] No one hears you.
+[Fri Jun 18 01:02:03 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:02:03 2021] need broadcast
+[Fri Jun 18 01:02:03 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:04 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:05 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:06 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:07 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:08 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:09 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:10 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:11 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:12 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:13 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:14 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:15 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:16 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:17 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:18 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:19 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:20 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:21 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:22 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:23 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:24 2021] Recieved: 75 69 69 80 65 76 73 86 69
+[Fri Jun 18 01:02:24 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:02:24 2021] removing status socket
+[Fri Jun 18 01:03:03 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:03:12 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:03:12 2021] removing status socket
+[Fri Jun 18 01:03:26 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:03:41 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:03:41 2021] removing status socket
+[Fri Jun 18 01:03:56 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:04:01 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:04:01 2021] removing status socket
+[Fri Jun 18 01:04:17 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:04:21 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:04:21 2021] removing status socket
+[Fri Jun 18 01:04:30 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:21:23 2021] [GHOST] starting up
+[Fri Jun 18 01:21:23 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Fri Jun 18 01:21:23 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Fri Jun 18 01:21:23 2021] [GHOST] starting winsock
+[Fri Jun 18 01:21:23 2021] [GHOST] setting process priority to "above normal"
+[Fri Jun 18 01:21:23 2021] [UDPSOCKET] using default broadcast target
+[Fri Jun 18 01:21:23 2021] [GHOST] opening primary database
+[Fri Jun 18 01:21:23 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:21:23 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:21:23 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:21:23 2021] [GHOST] opening secondary (local) database
+[Fri Jun 18 01:21:23 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:21:23 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:21:23 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:21:23 2021] [GHOST] attempting to find local IP addresses
+[Fri Jun 18 01:21:23 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Fri Jun 18 01:21:23 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Fri Jun 18 01:21:23 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:21:23 2021] [CONFIG] loading file [language.cfg]
+[Fri Jun 18 01:21:23 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Fri Jun 18 01:21:23 2021] [GHOST] using system locale of 2057
+[Fri Jun 18 01:21:23 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Fri Jun 18 01:21:23 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Fri Jun 18 01:21:23 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Fri Jun 18 01:21:23 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Fri Jun 18 01:21:23 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_size = 160 203 1 0
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_info = 115 42 226 229
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_crc = 227 181 210 129
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_options = 4
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_width = 80 0
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_height = 80 0
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_numplayers = 2
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_numteams = 1
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Fri Jun 18 01:21:23 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Fri Jun 18 01:21:23 2021] [MAP] found melee map, initializing slots
+[Fri Jun 18 01:21:23 2021] [MAP] adding 10 observer slots
+[Fri Jun 18 01:21:23 2021] [GHOST] using hardcoded admin game map
+[Fri Jun 18 01:21:23 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Fri Jun 18 01:21:23 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Fri Jun 18 01:21:23 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Fri Jun 18 01:21:23 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Fri Jun 18 01:21:23 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Fri Jun 18 01:21:23 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Fri Jun 18 01:21:31 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:21:31 2021] removing status socket
+[Fri Jun 18 01:21:34 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:21:42 2021] [GHOST] creating game [test]
+[Fri Jun 18 01:21:42 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Fri Jun 18 01:21:42 2021] [GAME: test] attempting to bind to all available addresses
+[Fri Jun 18 01:21:42 2021] [GAME: test] listening on port 6115
+[Fri Jun 18 01:21:42 2021] online check
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] connected
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] cd keys accepted
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] logon successful
+[Fri Jun 18 01:21:42 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Fri Jun 18 01:21:43 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle]  
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] There are currently 399 users in 97 games of Warcraft III Frozen Throne, and 572 users in 166 games and 35 channels.
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] You have no mail.
+[Fri Jun 18 01:21:43 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Fri Jun 18 01:21:43 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] Enjoy!
+[Fri Jun 18 01:21:43 2021] [INFO: rubattle] Last login: Fri Jun 18 00:54 2021
+[Fri Jun 18 01:21:51 2021] [GHOST] starting up
+[Fri Jun 18 01:21:51 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Fri Jun 18 01:21:51 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Fri Jun 18 01:21:51 2021] [GHOST] starting winsock
+[Fri Jun 18 01:21:51 2021] [GHOST] setting process priority to "above normal"
+[Fri Jun 18 01:21:51 2021] [UDPSOCKET] using default broadcast target
+[Fri Jun 18 01:21:51 2021] [GHOST] opening primary database
+[Fri Jun 18 01:21:51 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:21:51 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:21:51 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:21:51 2021] [GHOST] opening secondary (local) database
+[Fri Jun 18 01:21:51 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:21:51 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:21:51 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:21:51 2021] [GHOST] attempting to find local IP addresses
+[Fri Jun 18 01:21:51 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Fri Jun 18 01:21:51 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Fri Jun 18 01:21:51 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:21:51 2021] [CONFIG] loading file [language.cfg]
+[Fri Jun 18 01:21:51 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Fri Jun 18 01:21:51 2021] [GHOST] using system locale of 2057
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Fri Jun 18 01:21:51 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Fri Jun 18 01:21:51 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Fri Jun 18 01:21:51 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Fri Jun 18 01:21:51 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_size = 160 203 1 0
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_info = 115 42 226 229
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_crc = 227 181 210 129
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_options = 4
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_width = 80 0
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_height = 80 0
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_numplayers = 2
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_numteams = 1
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Fri Jun 18 01:21:51 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Fri Jun 18 01:21:51 2021] [MAP] found melee map, initializing slots
+[Fri Jun 18 01:21:51 2021] [MAP] adding 10 observer slots
+[Fri Jun 18 01:21:51 2021] [GHOST] using hardcoded admin game map
+[Fri Jun 18 01:21:51 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Fri Jun 18 01:21:51 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Fri Jun 18 01:21:51 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Fri Jun 18 01:21:51 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Fri Jun 18 01:21:51 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] connected
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] cd keys accepted
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] logon successful
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Fri Jun 18 01:21:51 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle]  
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] There are currently 398 users in 98 games of Warcraft III Frozen Throne, and 571 users in 168 games and 35 channels.
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] You have no mail.
+[Fri Jun 18 01:21:51 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Fri Jun 18 01:21:51 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] Enjoy!
+[Fri Jun 18 01:21:51 2021] [INFO: rubattle] Last login: Fri Jun 18 01:15 2021
+[Fri Jun 18 01:21:58 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:22:00 2021] [GHOST] creating game [test]
+[Fri Jun 18 01:22:00 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Fri Jun 18 01:22:00 2021] [GAME: test] attempting to bind to all available addresses
+[Fri Jun 18 01:22:00 2021] [GAME: test] listening on port 6115
+[Fri Jun 18 01:22:00 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Fri Jun 18 01:22:00 2021] online check
+[Fri Jun 18 01:22:00 2021] need broadcast
+[Fri Jun 18 01:22:59 2021] [GHOST] starting up
+[Fri Jun 18 01:22:59 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Fri Jun 18 01:22:59 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Fri Jun 18 01:22:59 2021] [GHOST] starting winsock
+[Fri Jun 18 01:22:59 2021] [GHOST] setting process priority to "above normal"
+[Fri Jun 18 01:22:59 2021] [UDPSOCKET] using default broadcast target
+[Fri Jun 18 01:22:59 2021] [GHOST] opening primary database
+[Fri Jun 18 01:22:59 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:22:59 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:22:59 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:22:59 2021] [GHOST] opening secondary (local) database
+[Fri Jun 18 01:22:59 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:22:59 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:22:59 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:22:59 2021] [GHOST] attempting to find local IP addresses
+[Fri Jun 18 01:22:59 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Fri Jun 18 01:22:59 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Fri Jun 18 01:22:59 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:22:59 2021] [CONFIG] loading file [language.cfg]
+[Fri Jun 18 01:22:59 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Fri Jun 18 01:22:59 2021] [GHOST] using system locale of 2057
+[Fri Jun 18 01:22:59 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Fri Jun 18 01:22:59 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Fri Jun 18 01:22:59 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Fri Jun 18 01:22:59 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Fri Jun 18 01:22:59 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_size = 160 203 1 0
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_info = 115 42 226 229
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_crc = 227 181 210 129
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_options = 4
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_width = 80 0
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_height = 80 0
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_numplayers = 2
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_numteams = 1
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Fri Jun 18 01:22:59 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Fri Jun 18 01:22:59 2021] [MAP] found melee map, initializing slots
+[Fri Jun 18 01:22:59 2021] [MAP] adding 10 observer slots
+[Fri Jun 18 01:22:59 2021] [GHOST] using hardcoded admin game map
+[Fri Jun 18 01:22:59 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Fri Jun 18 01:22:59 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Fri Jun 18 01:22:59 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Fri Jun 18 01:22:59 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Fri Jun 18 01:22:59 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Fri Jun 18 01:22:59 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Fri Jun 18 01:22:59 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:22:59 2021] [BNET: rubattle] connected
+[Fri Jun 18 01:22:59 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:23:00 2021] [BNET: rubattle] cd keys accepted
+[Fri Jun 18 01:23:00 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Fri Jun 18 01:23:00 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Fri Jun 18 01:23:00 2021] [BNET: rubattle] logon successful
+[Fri Jun 18 01:23:00 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Fri Jun 18 01:23:00 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle]  
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] There are currently 397 users in 98 games of Warcraft III Frozen Throne, and 563 users in 161 games and 35 channels.
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] You have no mail.
+[Fri Jun 18 01:23:00 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Fri Jun 18 01:23:00 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] Enjoy!
+[Fri Jun 18 01:23:00 2021] [INFO: rubattle] Last login: Fri Jun 18 01:15 2021
+[Fri Jun 18 01:23:05 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:23:09 2021] [GHOST] creating game [test]
+[Fri Jun 18 01:23:09 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Fri Jun 18 01:23:09 2021] [GAME: test] attempting to bind to all available addresses
+[Fri Jun 18 01:23:09 2021] [GAME: test] listening on port 6115
+[Fri Jun 18 01:23:09 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Fri Jun 18 01:23:09 2021] online check
+[Fri Jun 18 01:23:09 2021] need broadcast
+[Fri Jun 18 01:27:21 2021] [GHOST] starting up
+[Fri Jun 18 01:27:21 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Fri Jun 18 01:27:21 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Fri Jun 18 01:27:21 2021] [GHOST] starting winsock
+[Fri Jun 18 01:27:21 2021] [GHOST] setting process priority to "above normal"
+[Fri Jun 18 01:27:21 2021] [UDPSOCKET] using default broadcast target
+[Fri Jun 18 01:27:21 2021] [GHOST] opening primary database
+[Fri Jun 18 01:27:21 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:27:21 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:27:21 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:27:21 2021] [GHOST] opening secondary (local) database
+[Fri Jun 18 01:27:21 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:27:21 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:27:21 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:27:21 2021] [GHOST] attempting to find local IP addresses
+[Fri Jun 18 01:27:21 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Fri Jun 18 01:27:21 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Fri Jun 18 01:27:21 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:27:21 2021] [CONFIG] loading file [language.cfg]
+[Fri Jun 18 01:27:21 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Fri Jun 18 01:27:21 2021] [GHOST] using system locale of 2057
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Fri Jun 18 01:27:21 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Fri Jun 18 01:27:21 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Fri Jun 18 01:27:21 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Fri Jun 18 01:27:21 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_size = 160 203 1 0
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_info = 115 42 226 229
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_crc = 227 181 210 129
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_options = 4
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_width = 80 0
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_height = 80 0
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_numplayers = 2
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_numteams = 1
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Fri Jun 18 01:27:21 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Fri Jun 18 01:27:21 2021] [MAP] found melee map, initializing slots
+[Fri Jun 18 01:27:21 2021] [MAP] adding 10 observer slots
+[Fri Jun 18 01:27:21 2021] [GHOST] using hardcoded admin game map
+[Fri Jun 18 01:27:21 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Fri Jun 18 01:27:21 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Fri Jun 18 01:27:21 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Fri Jun 18 01:27:21 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Fri Jun 18 01:27:21 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] connected
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] cd keys accepted
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] logon successful
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Fri Jun 18 01:27:21 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle]  
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] There are currently 396 users in 94 games of Warcraft III Frozen Throne, and 563 users in 162 games and 36 channels.
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] You have no mail.
+[Fri Jun 18 01:27:21 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Fri Jun 18 01:27:21 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] Enjoy!
+[Fri Jun 18 01:27:21 2021] [INFO: rubattle] Last login: Fri Jun 18 01:16 2021
+[Fri Jun 18 01:27:27 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:27:30 2021] [GHOST] creating game [test]
+[Fri Jun 18 01:27:30 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Fri Jun 18 01:27:30 2021] [GAME: test] attempting to bind to all available addresses
+[Fri Jun 18 01:27:30 2021] [GAME: test] listening on port 6115
+[Fri Jun 18 01:27:30 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Fri Jun 18 01:27:30 2021] online check
+[Fri Jun 18 01:27:30 2021] need broadcast
+[Fri Jun 18 01:27:30 2021] [INFO: rubattle] No one hears you.
+[Fri Jun 18 01:30:43 2021] [GHOST] starting up
+[Fri Jun 18 01:30:43 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Fri Jun 18 01:30:43 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Fri Jun 18 01:30:43 2021] [GHOST] starting winsock
+[Fri Jun 18 01:30:43 2021] [GHOST] setting process priority to "above normal"
+[Fri Jun 18 01:30:43 2021] [UDPSOCKET] using default broadcast target
+[Fri Jun 18 01:30:43 2021] [GHOST] opening primary database
+[Fri Jun 18 01:30:43 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:30:43 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:30:43 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:30:43 2021] [GHOST] opening secondary (local) database
+[Fri Jun 18 01:30:43 2021] [SQLITE3] version 3.6.16
+[Fri Jun 18 01:30:43 2021] [SQLITE3] opening database [ghost.dbs]
+[Fri Jun 18 01:30:43 2021] [SQLITE3] found schema number [8]
+[Fri Jun 18 01:30:43 2021] [GHOST] attempting to find local IP addresses
+[Fri Jun 18 01:30:43 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Fri Jun 18 01:30:43 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Fri Jun 18 01:30:43 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:30:43 2021] [CONFIG] loading file [language.cfg]
+[Fri Jun 18 01:30:43 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Fri Jun 18 01:30:43 2021] [GHOST] using system locale of 2057
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Fri Jun 18 01:30:43 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Fri Jun 18 01:30:43 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Fri Jun 18 01:30:43 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Fri Jun 18 01:30:43 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_size = 160 203 1 0
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_info = 115 42 226 229
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_crc = 227 181 210 129
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_options = 4
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_width = 80 0
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_height = 80 0
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_numplayers = 2
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_numteams = 1
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Fri Jun 18 01:30:43 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Fri Jun 18 01:30:43 2021] [MAP] found melee map, initializing slots
+[Fri Jun 18 01:30:43 2021] [MAP] adding 10 observer slots
+[Fri Jun 18 01:30:43 2021] [GHOST] using hardcoded admin game map
+[Fri Jun 18 01:30:43 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Fri Jun 18 01:30:43 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Fri Jun 18 01:30:43 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Fri Jun 18 01:30:43 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Fri Jun 18 01:30:43 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] connected
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] cd keys accepted
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] logon successful
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Fri Jun 18 01:30:43 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle]  
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] There are currently 392 users in 90 games of Warcraft III Frozen Throne, and 557 users in 157 games and 34 channels.
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] You have no mail.
+[Fri Jun 18 01:30:43 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Fri Jun 18 01:30:43 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] Enjoy!
+[Fri Jun 18 01:30:43 2021] [INFO: rubattle] Last login: Fri Jun 18 01:21 2021
+[Fri Jun 18 01:30:51 2021] [GHOST][DEBUG] Accepted connection on status listener
+[Fri Jun 18 01:30:52 2021] [GHOST] creating game [test]
+[Fri Jun 18 01:30:52 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Fri Jun 18 01:30:52 2021] [GAME: test] attempting to bind to all available addresses
+[Fri Jun 18 01:30:52 2021] [GAME: test] listening on port 6115
+[Fri Jun 18 01:30:52 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Fri Jun 18 01:30:52 2021] online check
+[Fri Jun 18 01:30:52 2021] need broadcast
+[Fri Jun 18 01:30:52 2021] [INFO: rubattle] No one hears you.
+[Fri Jun 18 01:44:05 2021] [TCPSOCKET] error (recv) - ECONNRESET
+[Fri Jun 18 01:44:05 2021] removing status socket
+[Sat Jun 19 03:07:39 2021] [GHOST] starting up
+[Sat Jun 19 03:07:39 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:07:39 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:07:39 2021] [GHOST] starting winsock
+[Sat Jun 19 03:07:39 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:07:39 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:07:39 2021] [GHOST] opening primary database
+[Sat Jun 19 03:07:39 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:07:39 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:07:39 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:07:39 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:07:39 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:07:39 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:07:39 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:07:39 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:07:39 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:07:39 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:07:39 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:07:39 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:07:39 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:07:39 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:07:39 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:07:39 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:07:39 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:07:39 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:07:39 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:07:39 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:07:39 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:07:39 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:07:39 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:07:39 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:07:39 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:07:39 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:07:39 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:07:39 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle]  
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] There are currently 423 users in 92 games of Warcraft III Frozen Throne, and 601 users in 150 games and 36 channels.
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:07:39 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:07:39 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:07:39 2021] [INFO: rubattle] Last login: Sat Jun 19 02:59 2021
+[Sat Jun 19 03:07:48 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:07:48 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:07:48 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:07:48 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:07:48 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:07:48 2021] online check
+[Sat Jun 19 03:07:54 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:07:54 2021] online check
+[Sat Jun 19 03:07:55 2021] online check
+[Sat Jun 19 03:07:57 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:07:59 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:07:59 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:07:59 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:07:59 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:08:01 2021] [GAME: test] [Lobby] [beef00]: !comp 2 1
+[Sat Jun 19 03:08:01 2021] [GAME: test] admin [beef00] sent command [comp] with payload [2 1]
+[Sat Jun 19 03:08:01 2021] online check
+[Sat Jun 19 03:08:04 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:08:04 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:12:27 2021] [GHOST] starting up
+[Sat Jun 19 03:12:27 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:12:27 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:12:27 2021] [GHOST] starting winsock
+[Sat Jun 19 03:12:27 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:12:27 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:12:27 2021] [GHOST] opening primary database
+[Sat Jun 19 03:12:27 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:12:27 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:12:27 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:12:27 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:12:27 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:12:27 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:12:27 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:12:27 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:12:27 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:12:27 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:12:27 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:12:27 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:12:27 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:12:27 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:12:27 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:12:27 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:12:27 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:12:27 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:12:27 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:12:27 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:12:27 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:12:27 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:12:27 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:12:27 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:12:27 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:12:27 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:12:27 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:12:27 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:12:27 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:12:27 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:12:28 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle]  
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] There are currently 425 users in 93 games of Warcraft III Frozen Throne, and 592 users in 146 games and 37 channels.
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:12:28 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:12:28 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:12:28 2021] [INFO: rubattle] Last login: Sat Jun 19 03:01 2021
+[Sat Jun 19 03:12:37 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:12:37 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:12:37 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:12:37 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:12:37 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:12:37 2021] online check
+[Sat Jun 19 03:12:43 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:12:43 2021] online check
+[Sat Jun 19 03:12:43 2021] online check
+[Sat Jun 19 03:12:45 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:12:48 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:12:48 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:12:48 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:12:48 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:12:55 2021] [GAME: test] [Lobby] [beef00]: !comp 2 1
+[Sat Jun 19 03:12:55 2021] [GAME: test] admin [beef00] sent command [comp] with payload [2 1]
+[Sat Jun 19 03:12:55 2021] online check
+[Sat Jun 19 03:12:57 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:12:57 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:12:57 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 03:12:59 2021] [GAME: test] player [beef00] finished loading in 1.80 seconds
+[Sat Jun 19 03:12:59 2021] [GAME: test] finished loading with 1 players
+[Sat Jun 19 03:12:59 2021] [GAME: test] [Local]: Shortest load by player [beef00] was 1.80 seconds.
+[Sat Jun 19 03:12:59 2021] [GAME: test] [Local]: Longest load by player [beef00] was 1.80 seconds.
+[Sat Jun 19 03:13:06 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:13:06 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:13:16 2021] [GAME: test] deleting player [beef00]: has left the game voluntarily
+[Sat Jun 19 03:13:16 2021] [GAME: test] [Local]: beef00 has left the game voluntarily.
+[Sat Jun 19 03:13:16 2021] online check
+[Sat Jun 19 03:13:16 2021] [GAME: test] is over (no players left)
+[Sat Jun 19 03:13:16 2021] [GAME: test] saving game data to database
+[Sat Jun 19 03:13:16 2021] [GHOST] deleting game [test]
+[Sat Jun 19 03:13:16 2021] [t0m0k0_tba] Game [test :  : 0/1 : 0m] is over.
+[Sat Jun 19 03:13:16 2021] [GAME: test] saving player/stats data to database
+[Sat Jun 19 03:31:15 2021] [GHOST] starting up
+[Sat Jun 19 03:31:15 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:31:15 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:31:15 2021] [GHOST] starting winsock
+[Sat Jun 19 03:31:15 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:31:15 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:31:15 2021] [GHOST] opening primary database
+[Sat Jun 19 03:31:15 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:31:15 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:31:15 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:31:15 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:31:15 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:31:15 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:31:15 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:31:15 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:31:15 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:31:15 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:31:15 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:31:15 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:31:15 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:31:15 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:31:15 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:31:15 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:31:15 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:31:15 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:31:15 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:31:15 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:31:15 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:31:15 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:31:15 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:31:15 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:31:15 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:31:15 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:31:15 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:31:15 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:31:15 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:31:15 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:31:15 2021] [INFO: rubattle]  
+[Sat Jun 19 03:31:15 2021] [INFO: rubattle] There are currently 432 users in 93 games of Warcraft III Frozen Throne, and 593 users in 148 games and 39 channels.
+[Sat Jun 19 03:31:15 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:31:15 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:31:15 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:31:16 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:31:16 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:31:16 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:31:16 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:31:16 2021] [INFO: rubattle] Last login: Sat Jun 19 03:06 2021
+[Sat Jun 19 03:31:25 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:31:25 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:31:25 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:31:25 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:31:25 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:31:25 2021] online check
+[Sat Jun 19 03:31:33 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:31:33 2021] online check
+[Sat Jun 19 03:31:33 2021] online check
+[Sat Jun 19 03:31:35 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:31:37 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:31:37 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:31:37 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:31:37 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:31:39 2021] [GAME: test] [Lobby] [beef00]: !comp 2 1
+[Sat Jun 19 03:31:39 2021] [GAME: test] admin [beef00] sent command [comp] with payload [2 1]
+[Sat Jun 19 03:31:39 2021] online check
+[Sat Jun 19 03:31:42 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:31:42 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:31:42 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 03:31:44 2021] [GAME: test] player [beef00] finished loading in 1.77 seconds
+[Sat Jun 19 03:31:44 2021] [GAME: test] finished loading with 1 players
+[Sat Jun 19 03:31:44 2021] [GAME: test] [Local]: Shortest load by player [beef00] was 1.77 seconds.
+[Sat Jun 19 03:31:44 2021] [GAME: test] [Local]: Longest load by player [beef00] was 1.77 seconds.
+[Sat Jun 19 03:31:50 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:31:50 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:32:03 2021] [GAME: test] deleting player [beef00]: has left the game voluntarily
+[Sat Jun 19 03:32:03 2021] [GAME: test] [Local]: beef00 has left the game voluntarily.
+[Sat Jun 19 03:32:03 2021] online check
+[Sat Jun 19 03:32:03 2021] [GAME: test] is over (no players left)
+[Sat Jun 19 03:32:03 2021] [GAME: test] saving game data to database
+[Sat Jun 19 03:32:03 2021] [GHOST] deleting game [test]
+[Sat Jun 19 03:32:03 2021] [t0m0k0_tba] Game [test :  : 0/1 : 0m] is over.
+[Sat Jun 19 03:32:03 2021] [GAME: test] saving player/stats data to database
+[Sat Jun 19 03:35:30 2021] [GHOST] starting up
+[Sat Jun 19 03:35:30 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:35:30 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:35:30 2021] [GHOST] starting winsock
+[Sat Jun 19 03:35:30 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:35:30 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:35:30 2021] [GHOST] opening primary database
+[Sat Jun 19 03:35:30 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:35:30 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:35:30 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:35:30 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:35:30 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:35:30 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:35:30 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:35:30 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:35:30 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:35:30 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:35:30 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:35:30 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:35:30 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:35:30 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:35:30 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:35:30 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:35:30 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:35:30 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:35:30 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:35:30 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:35:30 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:35:30 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:35:30 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:35:30 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:35:30 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:35:30 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:35:31 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:35:31 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:35:31 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle]  
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] There are currently 438 users in 96 games of Warcraft III Frozen Throne, and 595 users in 153 games and 38 channels.
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:35:31 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:35:31 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:35:31 2021] [INFO: rubattle] Last login: Sat Jun 19 03:25 2021
+[Sat Jun 19 03:35:40 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:35:40 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:35:40 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:35:40 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:35:40 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:35:45 2021] online check
+[Sat Jun 19 03:35:51 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:35:51 2021] online check
+[Sat Jun 19 03:35:51 2021] online check
+[Sat Jun 19 03:35:54 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:35:58 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:35:58 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:35:58 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:35:58 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:36:00 2021] [GAME: test] [Lobby] [beef00]: !comp  2 1
+[Sat Jun 19 03:36:00 2021] [GAME: test] admin [beef00] sent command [comp] with payload [ 2 1]
+[Sat Jun 19 03:36:00 2021] online check
+[Sat Jun 19 03:36:04 2021] [GAME: test] [Lobby] [beef00]: !start
+[Sat Jun 19 03:36:04 2021] [GAME: test] admin [beef00] sent command [start] with payload []
+[Sat Jun 19 03:36:04 2021] [GAME: test] [Local]: Need one more player for start
+[Sat Jun 19 03:36:08 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:36:08 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:45:24 2021] [GHOST] starting up
+[Sat Jun 19 03:45:24 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:45:24 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:45:24 2021] [GHOST] starting winsock
+[Sat Jun 19 03:45:24 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:45:24 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:45:24 2021] [GHOST] opening primary database
+[Sat Jun 19 03:45:24 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:45:24 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:45:24 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:45:25 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:45:25 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:45:25 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:45:25 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:45:25 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:45:25 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:45:25 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:45:25 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:45:25 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:45:25 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:45:25 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:45:25 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:45:25 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:45:25 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:45:25 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:45:25 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:45:25 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:45:25 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:45:25 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:45:25 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:45:25 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:45:25 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:45:25 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:45:25 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:45:25 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle]  
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] There are currently 429 users in 100 games of Warcraft III Frozen Throne, and 580 users in 154 games and 37 channels.
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:45:25 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:45:25 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:45:25 2021] [INFO: rubattle] Last login: Sat Jun 19 03:29 2021
+[Sat Jun 19 03:45:30 2021] [GHOST] starting up
+[Sat Jun 19 03:45:30 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:45:30 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:45:30 2021] [GHOST] starting winsock
+[Sat Jun 19 03:45:30 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:45:30 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:45:30 2021] [GHOST] opening primary database
+[Sat Jun 19 03:45:30 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:45:30 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:45:30 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:45:30 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:45:30 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:45:30 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:45:30 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:45:30 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:45:30 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:45:30 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:45:30 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:45:30 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:45:30 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:45:30 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:45:30 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:45:30 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:45:30 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:45:30 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:45:30 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:45:30 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:45:30 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:45:30 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:45:30 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:45:30 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:45:30 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:45:30 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:45:30 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:45:30 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:45:30 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:45:30 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:45:31 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle]  
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] There are currently 429 users in 100 games of Warcraft III Frozen Throne, and 579 users in 152 games and 37 channels.
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:45:31 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:45:31 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:45:31 2021] [INFO: rubattle] Last login: Sat Jun 19 03:39 2021
+[Sat Jun 19 03:45:46 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:45:46 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:45:46 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:45:46 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:45:46 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:45:46 2021] online check
+[Sat Jun 19 03:45:53 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:45:53 2021] online check
+[Sat Jun 19 03:45:53 2021] online check
+[Sat Jun 19 03:45:55 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:45:58 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:45:58 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:45:58 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:45:58 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:46:05 2021] [GAME: test] [Lobby] [beef00]: !comp 2 1
+[Sat Jun 19 03:46:05 2021] [GAME: test] admin [beef00] sent command [comp] with payload [2 1]
+[Sat Jun 19 03:46:05 2021] online check
+[Sat Jun 19 03:46:07 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:46:07 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:46:07 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 03:49:20 2021] [GHOST] starting up
+[Sat Jun 19 03:49:20 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:49:20 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:49:20 2021] [GHOST] starting winsock
+[Sat Jun 19 03:49:20 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:49:20 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:49:20 2021] [GHOST] opening primary database
+[Sat Jun 19 03:49:20 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:49:20 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:49:20 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:49:20 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:49:20 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:49:20 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:49:20 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:49:20 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:49:20 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:49:20 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:49:20 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:49:20 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:49:20 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:49:20 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:49:20 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:49:21 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:49:21 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:49:21 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:49:21 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:49:21 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:49:21 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:49:21 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:49:21 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:49:21 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:49:21 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:49:21 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:49:21 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:49:21 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:49:21 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle]  
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] There are currently 410 users in 91 games of Warcraft III Frozen Throne, and 562 users in 143 games and 38 channels.
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:49:21 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:49:21 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:49:21 2021] [INFO: rubattle] Last login: Sat Jun 19 03:39 2021
+[Sat Jun 19 03:49:30 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:49:30 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:49:30 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:49:30 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:49:30 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:49:37 2021] online check
+[Sat Jun 19 03:49:44 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:49:44 2021] online check
+[Sat Jun 19 03:49:45 2021] online check
+[Sat Jun 19 03:49:46 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:49:51 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:49:51 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:49:51 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:49:51 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:50:05 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:50:05 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:50:05 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 03:52:33 2021] [GHOST] starting up
+[Sat Jun 19 03:52:33 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:52:33 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:52:33 2021] [GHOST] starting winsock
+[Sat Jun 19 03:52:33 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:52:33 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:52:33 2021] [GHOST] opening primary database
+[Sat Jun 19 03:52:33 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:52:33 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:52:33 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:52:33 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:52:33 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:52:33 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:52:33 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:52:33 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:52:33 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:52:33 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:52:33 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:52:33 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:52:33 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:52:33 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:52:34 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:52:34 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:52:34 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:52:34 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:52:34 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:52:34 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:52:34 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:52:34 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:52:34 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:52:34 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:52:34 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:52:34 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:52:34 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:52:34 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle]  
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] There are currently 408 users in 92 games of Warcraft III Frozen Throne, and 558 users in 147 games and 38 channels.
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:52:34 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:52:34 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:52:34 2021] [INFO: rubattle] Last login: Sat Jun 19 03:43 2021
+[Sat Jun 19 03:52:43 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:52:43 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:52:43 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:52:43 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:52:43 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:52:43 2021] online check
+[Sat Jun 19 03:52:49 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:52:49 2021] online check
+[Sat Jun 19 03:52:49 2021] online check
+[Sat Jun 19 03:52:51 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:52:54 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:52:54 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:52:54 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:52:54 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:52:58 2021] [GAME: test] [Lobby] [beef00]: !comp 2 1
+[Sat Jun 19 03:52:58 2021] [GAME: test] admin [beef00] sent command [comp] with payload [2 1]
+[Sat Jun 19 03:52:58 2021] online check
+[Sat Jun 19 03:53:03 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:53:03 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:53:03 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 03:54:29 2021] [GHOST] starting up
+[Sat Jun 19 03:54:29 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:54:29 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:54:29 2021] [GHOST] starting winsock
+[Sat Jun 19 03:54:29 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:54:29 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:54:29 2021] [GHOST] opening primary database
+[Sat Jun 19 03:54:29 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:54:29 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:54:29 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:54:29 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:54:29 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:54:29 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:54:29 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:54:29 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:54:29 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:54:29 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:54:29 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:54:29 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:54:29 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:54:29 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:54:29 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:54:29 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:54:29 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:54:29 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:54:29 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:54:29 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:54:29 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:54:29 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:54:29 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:54:29 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:54:29 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:54:29 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:54:29 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:54:29 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:54:29 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:54:29 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:54:29 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:54:30 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle]  
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] There are currently 410 users in 91 games of Warcraft III Frozen Throne, and 563 users in 150 games and 39 channels.
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:54:30 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:54:30 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:54:30 2021] [INFO: rubattle] Last login: Sat Jun 19 03:46 2021
+[Sat Jun 19 03:54:39 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:54:39 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:54:39 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:54:39 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:54:39 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:54:39 2021] online check
+[Sat Jun 19 03:54:45 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:54:45 2021] online check
+[Sat Jun 19 03:54:46 2021] online check
+[Sat Jun 19 03:54:48 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:54:51 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:54:51 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:54:51 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:54:51 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:54:53 2021] [GAME: test] [Lobby] [beef00]: !comp 2 1
+[Sat Jun 19 03:54:53 2021] [GAME: test] admin [beef00] sent command [comp] with payload [2 1]
+[Sat Jun 19 03:54:53 2021] online check
+[Sat Jun 19 03:54:56 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:54:56 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:54:56 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 03:54:58 2021] [GAME: test] player [beef00] finished loading in 1.90 seconds
+[Sat Jun 19 03:54:58 2021] [GAME: test] finished loading with 1 players
+[Sat Jun 19 03:54:58 2021] [GAME: test] [Local]: Shortest load by player [beef00] was 1.90 seconds.
+[Sat Jun 19 03:54:58 2021] [GAME: test] [Local]: Longest load by player [beef00] was 1.90 seconds.
+[Sat Jun 19 03:55:04 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:55:04 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:58:04 2021] [GHOST] starting up
+[Sat Jun 19 03:58:04 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 03:58:04 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 03:58:04 2021] [GHOST] starting winsock
+[Sat Jun 19 03:58:04 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 03:58:04 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 03:58:04 2021] [GHOST] opening primary database
+[Sat Jun 19 03:58:04 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:58:04 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:58:04 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:58:04 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 03:58:04 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 03:58:04 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 03:58:04 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 03:58:04 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 03:58:04 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 03:58:04 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 03:58:04 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:58:04 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 03:58:04 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 03:58:04 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 03:58:04 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 03:58:04 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 03:58:04 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 03:58:04 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 03:58:04 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 03:58:04 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 03:58:04 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 03:58:04 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 03:58:04 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 03:58:04 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 03:58:04 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 03:58:04 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 03:58:04 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] connected
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 03:58:04 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle]  
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] There are currently 408 users in 92 games of Warcraft III Frozen Throne, and 562 users in 150 games and 40 channels.
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 03:58:04 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 03:58:04 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 03:58:04 2021] [INFO: rubattle] Last login: Sat Jun 19 03:48 2021
+[Sat Jun 19 03:58:13 2021] [GHOST] creating game [test]
+[Sat Jun 19 03:58:13 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 03:58:13 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 03:58:13 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 03:58:13 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 03:58:20 2021] online check
+[Sat Jun 19 03:58:40 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 03:58:40 2021] online check
+[Sat Jun 19 03:58:41 2021] online check
+[Sat Jun 19 03:58:43 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 03:58:46 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 03:58:46 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 03:58:46 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 03:58:46 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 03:58:48 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 03:58:49 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 03:58:49 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 04:04:25 2021] [GHOST] starting up
+[Sat Jun 19 04:04:25 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jun 19 04:04:25 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jun 19 04:04:25 2021] [GHOST] starting winsock
+[Sat Jun 19 04:04:25 2021] [GHOST] setting process priority to "above normal"
+[Sat Jun 19 04:04:25 2021] [UDPSOCKET] using default broadcast target
+[Sat Jun 19 04:04:25 2021] [GHOST] opening primary database
+[Sat Jun 19 04:04:25 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 04:04:25 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 04:04:25 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 04:04:25 2021] [GHOST] opening secondary (local) database
+[Sat Jun 19 04:04:25 2021] [SQLITE3] version 3.6.16
+[Sat Jun 19 04:04:25 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jun 19 04:04:25 2021] [SQLITE3] found schema number [8]
+[Sat Jun 19 04:04:25 2021] [GHOST] attempting to find local IP addresses
+[Sat Jun 19 04:04:25 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jun 19 04:04:25 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jun 19 04:04:25 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jun 19 04:04:25 2021] [CONFIG] loading file [language.cfg]
+[Sat Jun 19 04:04:25 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jun 19 04:04:25 2021] [GHOST] using system locale of 2057
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jun 19 04:04:25 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jun 19 04:04:25 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jun 19 04:04:25 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jun 19 04:04:25 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_crc = 227 181 210 129
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_sha1 = 32 224 158 114 78 244 33 214 169 143 30 34 153 89 14 165 16 77 0 92
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_options = 4
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_width = 80 0
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_height = 80 0
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_numplayers = 2
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_numteams = 1
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jun 19 04:04:25 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jun 19 04:04:25 2021] [MAP] found melee map, initializing slots
+[Sat Jun 19 04:04:25 2021] [MAP] adding 10 observer slots
+[Sat Jun 19 04:04:25 2021] [GHOST] using hardcoded admin game map
+[Sat Jun 19 04:04:25 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jun 19 04:04:25 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jun 19 04:04:25 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jun 19 04:04:25 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jun 19 04:04:25 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] connected
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] cd keys accepted
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] logon successful
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jun 19 04:04:25 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle]  
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] There are currently 427 users in 92 games of Warcraft III Frozen Throne, and 579 users in 148 games and 40 channels.
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] You have no mail.
+[Sat Jun 19 04:04:25 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jun 19 04:04:25 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] Enjoy!
+[Sat Jun 19 04:04:25 2021] [INFO: rubattle] Last login: Sat Jun 19 03:52 2021
+[Sat Jun 19 04:04:34 2021] [GHOST] creating game [test]
+[Sat Jun 19 04:04:34 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jun 19 04:04:34 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jun 19 04:04:34 2021] [GAME: test] listening on port 6115
+[Sat Jun 19 04:04:34 2021] [t0m0k0_tba] Creating public game [test] started by [].
+[Sat Jun 19 04:04:34 2021] online check
+[Sat Jun 19 04:04:40 2021] [GAME: test] player [beef00|192.168.1.6] joined the game
+[Sat Jun 19 04:04:40 2021] online check
+[Sat Jun 19 04:04:41 2021] online check
+[Sat Jun 19 04:04:43 2021] [GAME: test] [Local]: beef00 will be kicked in 10 seconds...
+[Sat Jun 19 04:04:46 2021] [GAME: test] [Lobby] [beef00]: !dots
+[Sat Jun 19 04:04:46 2021] [GAME: test] admin [beef00] sent command [dots] with payload []
+[Sat Jun 19 04:04:46 2021] [GAME: test][beef00] has been authenticated
+[Sat Jun 19 04:04:46 2021] [GAME: test] [Local]: [beef00] has been authenticated
+[Sat Jun 19 04:04:49 2021] [GAME: test] [Lobby] [beef00]: !comp  2  1
+[Sat Jun 19 04:04:49 2021] [GAME: test] admin [beef00] sent command [comp] with payload [ 2  1]
+[Sat Jun 19 04:04:49 2021] online check
+[Sat Jun 19 04:04:53 2021] [GAME: test] [Lobby] [beef00]: !startn
+[Sat Jun 19 04:04:53 2021] [GAME: test] admin [beef00] sent command [startn] with payload []
+[Sat Jun 19 04:04:53 2021] [GAME: test] started loading with 1 players
+[Sat Jun 19 04:04:55 2021] [GAME: test] player [beef00] finished loading in 1.78 seconds
+[Sat Jun 19 04:04:55 2021] [GAME: test] finished loading with 1 players
+[Sat Jun 19 04:04:55 2021] [GAME: test] [Local]: Shortest load by player [beef00] was 1.78 seconds.
+[Sat Jun 19 04:04:55 2021] [GAME: test] [Local]: Longest load by player [beef00] was 1.78 seconds.
+[Sat Jun 19 04:05:00 2021] [GAME: test] deleting player [beef00]: has left the game voluntarily
+[Sat Jun 19 04:05:00 2021] [GAME: test] [Local]: beef00 has left the game voluntarily.
+[Sat Jun 19 04:05:00 2021] online check
+[Sat Jun 19 04:05:00 2021] [GAME: test] is over (no players left)
+[Sat Jun 19 04:05:00 2021] [GAME: test] saving game data to database
+[Sat Jun 19 04:05:00 2021] [GHOST] deleting game [test]
+[Sat Jun 19 04:05:00 2021] [t0m0k0_tba] Game [test :  : 0/1 : 0m] is over.
+[Sat Jun 19 04:05:00 2021] [GAME: test] saving player/stats data to database
+[Sat Jul 10 17:58:58 2021] [GHOST] starting up
+[Sat Jul 10 17:58:58 2021] [GHOST] using log method 1, logging is enabled and [ghost_log.txt] will not be locked
+[Sat Jul 10 17:58:58 2021] [GHOST] using Windows timer with resolution 1 milliseconds
+[Sat Jul 10 17:58:58 2021] [GHOST] starting winsock
+[Sat Jul 10 17:58:58 2021] [GHOST] setting process priority to "above normal"
+[Sat Jul 10 17:58:58 2021] [UDPSOCKET] using default broadcast target
+[Sat Jul 10 17:58:58 2021] [GHOST] opening primary database
+[Sat Jul 10 17:58:58 2021] [SQLITE3] version 3.6.16
+[Sat Jul 10 17:58:58 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jul 10 17:58:58 2021] [SQLITE3] found schema number [8]
+[Sat Jul 10 17:58:58 2021] [GHOST] opening secondary (local) database
+[Sat Jul 10 17:58:58 2021] [SQLITE3] version 3.6.16
+[Sat Jul 10 17:58:58 2021] [SQLITE3] opening database [ghost.dbs]
+[Sat Jul 10 17:58:58 2021] [SQLITE3] found schema number [8]
+[Sat Jul 10 17:58:58 2021] [GHOST] attempting to find local IP addresses
+[Sat Jul 10 17:58:58 2021] [GHOST] local IP address #1 is [127.0.0.1]
+[Sat Jul 10 17:58:58 2021] [GHOST] local IP address #2 is [192.168.1.6]
+[Sat Jul 10 17:58:58 2021] [GHOST] acting as Warcraft III: The Frozen Throne
+[Sat Jul 10 17:58:58 2021] [CONFIG] loading file [language.cfg]
+[Sat Jul 10 17:58:58 2021] [GHOST] found battle.net connection #1 for server [playground.ru]
+[Sat Jul 10 17:58:58 2021] [GHOST] using system locale of 2057
+[Sat Jul 10 17:58:58 2021] [BNET: rubattle] pvpgn connection found with a configured BNLS server, ignoring BNLS server
+[Sat Jul 10 17:58:58 2021] [GHOST] warning - unable to load MPQ file [war3\War3Patch.mpq] - error code 2
+[Sat Jul 10 17:58:58 2021] [GHOST] adding ".cfg" to default map -> new default is [tba.cfg]
+[Sat Jul 10 17:58:58 2021] [CONFIG] loading file [mapcfgs\tba.cfg]
+[Sat Jul 10 17:58:58 2021] [MAP] loading MPQ file [maps\(2)Amazonia.w3x]
+[Sat Jul 10 17:58:58 2021] [MAP] calculated map_size = 160 203 1 0
+[Sat Jul 10 17:58:58 2021] [MAP] calculated map_info = 115 42 226 229
+[Sat Jul 10 17:58:58 2021] [MAP] calculated map_crc = 229 47 0 240
+[Sat Jul 10 17:58:58 2021] [MAP] calculated map_sha1 = 75 25 116 105 97 188 114 11 88 108 113 121 113 91 19 80 179 216 90 74
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_options = 4
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_width = 80 0
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_height = 80 0
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_numplayers = 2
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_numteams = 1
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_slot1 = 0 255 0 0 0 0 1 1 100
+[Sat Jul 10 17:58:59 2021] [MAP] calculated map_slot2 = 0 255 0 0 0 1 2 1 100
+[Sat Jul 10 17:58:59 2021] [MAP] found melee map, initializing slots
+[Sat Jul 10 17:58:59 2021] [MAP] adding 10 observer slots
+[Sat Jul 10 17:58:59 2021] [GHOST] using hardcoded admin game map
+[Sat Jul 10 17:58:59 2021] [MAP] using hardcoded Emerald Gardens map data for Warcraft 3 version 1.24 & 1.24b
+[Sat Jul 10 17:58:59 2021] [GHOST] warning - unable to read file [ip-to-country.csv], iptocountry data not loaded
+[Sat Jul 10 17:58:59 2021] [GHOST] GHost++ Version 17.1 (with MySQL support)
+[Sat Jul 10 17:58:59 2021] [GHOST][STATUS] listening for Gproxy status connects on port 6153
+[Sat Jul 10 17:58:59 2021] [GHOST] listening for GProxy++ reconnects on port 6116
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] connecting to server [playground.ru] on port 6112
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] resolved and cached server IP address 212.42.38.154
+[Sat Jul 10 17:58:59 2021] [GHOST] creating game [test]
+[Sat Jul 10 17:58:59 2021] [GAME: test] error loading IP blacklist file [ipblacklist.txt]
+[Sat Jul 10 17:58:59 2021] [GAME: test] attempting to bind to all available addresses
+[Sat Jul 10 17:58:59 2021] [GAME: test] listening on port 6115
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] connected
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] attempting to auth as Warcraft III: The Frozen Throne
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] cd keys accepted
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] username [t0m0k0_tba] accepted
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] using pvpgn logon type (for pvpgn servers only)
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] logon successful
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] joining channel [RU-DnOTS]
+[Sat Jul 10 17:58:59 2021] [BNET: rubattle] joined channel [RU-DnOTS]
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] Hello t0m0k0_tba, welcome to Rubattle.net!
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] This server is hosted by RopNet.
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle]  
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] There are currently 307 users in 76 games of Warcraft III Frozen Throne, and 576 users in 169 games and 35 channels.
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] You have no mail.
+[Sat Jul 10 17:58:59 2021] [ERROR: rubattle] All accounts that was played with cheats will be erased!
+[Sat Jul 10 17:58:59 2021] [ERROR: rubattle] Any advertise/discussion about cheats and resources that contains/supports illegal software, including cheat-based servers, are strongly prohibited and will lead to account closure. You are warned.
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] Technical support: support@rubattle.net
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] Report cheaters (with replay) here: http://www.rubattle.net/report/
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] Community forum: http://www.rubattle.net/forums/warcraft3/
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] Enjoy!
+[Sat Jul 10 17:58:59 2021] [INFO: rubattle] Last login: Sat Jul 10 17:52 2021

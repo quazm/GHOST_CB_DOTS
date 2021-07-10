@@ -1,0 +1,23 @@
+					RECEIVE <<< ff ff
+SEND >>> 73 74 61 74 75 73 3a 72 65 68 6f 73 74 69 6e 67
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< ff ff
+SEND >>> 73 74 61 74 75 73 3a 72 65 68 6f 73 74 69 6e 67
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< 4b 45 45 50 41 4c 49 56 45
+SEND >>> 4f 4b 0a
+					RECEIVE <<< ff ff
+					RECEIVE <<< ff ff
+					RECEIVE <<< ff ff

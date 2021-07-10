@@ -1,0 +1,28 @@
+﻿TOKIKO DOTS NUMERO UNO
+HUEHUEHUEHUEHUEHUEHUEHUEHUEHUE
+HUEHUEHUEHUEHEUHUEHUEHUEHEUHUE
+-----------------------------------------------------------------------------------------
+ДЛЯ ИГРЫ НЕОБХОДИМЫ МОДЕЛИ / LATEST MODELS:
+http://thdots.ru/index.php/files/19-models06 
+-----------------------------------------------------------------------------------------
+Вики по карте / russian wiki: 
+http://wiki.4otaku.ru/defence_of_the_shrines/
+По всем вопросам / contacts:
+Quazm.Quazm - skype
+dots@4otaku.ru - jabber conference
+-----------------------------------------------------------------------------------------
+LOGS: http://thdots.ru/logs/
+-----------------------------------------------------------------------------------------
+Commands for TOP SLOT player (type in chat):
+!start - game start, !a - abort start, !open <number> - open slot, 
+!comp <slot> <skill> - add comp, !kick <name>, !latency <number>, !mute <name>, 
+!swap <slot> <slot>, !end - ends game (only in game)
+-----------------------------------------------------------------------------------------
+^^^^^^^^^^ SCROLL UP FOR MORE INFO / МОТАТЬ ВВЕРХ ^^^^^^^^^^
+The game ends if the game is less than 51% of the players.
+To start, need at least 2 players.
+PLAYER IN TOP SLOT STARTS THE GAME BY TYPING !start
+Игра завершается, если в игре остаётся меньше 51% игроков.
+Для старта нужно как минимум 2 игрока.
+ИГРОК В ТОПОВОМ СЛОТЕ СТАРТУЕТ ИГРУ КОМАНДОЙ !start
+status tracking / смотреть статус: http://thdots.ru/

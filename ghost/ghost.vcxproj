@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug MySQL|Win32">
+      <Configuration>Debug MySQL</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release MySQL|Win32">
+      <Configuration>Release MySQL</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B57A04BC-13D4-4CAD-B835-C046B9D66269}</ProjectGuid>
+    <RootNamespace>ghost</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release MySQL|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug MySQL|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release MySQL|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug MySQL|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>16.0.29511.113</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug MySQL|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release MySQL|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug MySQL|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>..\boost_1_72_0;..\bncsutil\src;..\StormLib;..\zlib\include;..\mysql\include;..\pdcurses;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;GHOST_MYSQL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>$(SolutionDir)bncsutil\build\Debug\bncsutil.lib;ws2_32.lib;winmm.lib;zdll.lib;$(SolutionDir)ghost\StormLibRAS.lib;libmysql.lib;pdcurses.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>..\boost_1_72_0\lib;..\zlib\lib;..\mysql\lib\opt;..\boost\lib;..\pdcurses;..\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release MySQL|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>..\boost_1_72_0;..\bncsutil\src;..\StormLib;..\zlib\include;..\mysql\include;..\pdcurses;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;GHOST_MYSQL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <CallingConvention>Cdecl</CallingConvention>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>$(SolutionDir)bncsutil\build\Release\bncsutil.lib;ws2_32.lib;winmm.lib;zdll.lib;$(SolutionDir)ghost\StormLibRAS.lib;libmysql.lib;pdcurses.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>..\boost_1_72_0\lib;..\zlib\lib;..\mysql\lib\opt;..\boost\lib;..\pdcurses;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="bncsutilinterface.cpp" />
+    <ClCompile Include="bnet.cpp" />
+    <ClCompile Include="bnetprotocol.cpp" />
+    <ClCompile Include="bnlsclient.cpp" />
+    <ClCompile Include="bnlsprotocol.cpp" />
+    <ClCompile Include="commandpacket.cpp" />
+    <ClCompile Include="config.cpp" />
+    <ClCompile Include="crc32.cpp" />
+    <ClCompile Include="csvparser.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="gameplayer.cpp" />
+    <ClCompile Include="gameprotocol.cpp" />
+    <ClCompile Include="gameslot.cpp" />
+    <ClCompile Include="game_admin.cpp" />
+    <ClCompile Include="game_base.cpp" />
+    <ClCompile Include="gcbiprotocol.cpp" />
+    <ClCompile Include="ghost.cpp" />
+    <ClCompile Include="ghostdb.cpp" />
+    <ClCompile Include="ghostdbmysql.cpp" />
+    <ClCompile Include="ghostdbsqlite.cpp" />
+    <ClCompile Include="gpsprotocol.cpp" />
+    <ClCompile Include="language.cpp" />
+    <ClCompile Include="map.cpp" />
+    <ClCompile Include="packed.cpp" />
+    <ClCompile Include="replay.cpp" />
+    <ClCompile Include="savegame.cpp" />
+    <ClCompile Include="sha1.cpp" />
+    <ClCompile Include="socket.cpp" />
+    <ClCompile Include="sqlite3.c" />
+    <ClCompile Include="stats.cpp" />
+    <ClCompile Include="statsdota.cpp" />
+    <ClCompile Include="statsw3mmd.cpp" />
+    <ClCompile Include="statusbroadcaster.cpp" />
+    <ClCompile Include="userinterface.cpp" />
+    <ClCompile Include="util.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bncsutilinterface.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release MySQL|Win32'">false</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="bnet.h" />
+    <ClInclude Include="bnetprotocol.h" />
+    <ClInclude Include="bnlsclient.h" />
+    <ClInclude Include="bnlsprotocol.h" />
+    <ClInclude Include="commandpacket.h" />
+    <ClInclude Include="config.h" />
+    <ClInclude Include="crc32.h" />
+    <ClInclude Include="csvparser.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="gameplayer.h" />
+    <ClInclude Include="gameprotocol.h" />
+    <ClInclude Include="gameslot.h" />
+    <ClInclude Include="game_admin.h" />
+    <ClInclude Include="game_base.h" />
+    <ClInclude Include="gcbiprotocol.h" />
+    <ClInclude Include="ghost.h" />
+    <ClInclude Include="ghostdb.h" />
+    <ClInclude Include="ghostdbmysql.h" />
+    <ClInclude Include="ghostdbsqlite.h" />
+    <ClInclude Include="gpsprotocol.h" />
+    <ClInclude Include="includes.h" />
+    <ClInclude Include="language.h" />
+    <ClInclude Include="map.h" />
+    <ClInclude Include="ms_stdint.h" />
+    <ClInclude Include="next_combination.h" />
+    <ClInclude Include="packed.h" />
+    <ClInclude Include="replay.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="savegame.h" />
+    <ClInclude Include="sha1.h" />
+    <ClInclude Include="socket.h" />
+    <ClInclude Include="sqlite3.h" />
+    <ClInclude Include="sqlite3ext.h" />
+    <ClInclude Include="stats.h" />
+    <ClInclude Include="statsdota.h" />
+    <ClInclude Include="statsw3mmd.h" />
+    <ClInclude Include="statusbroadcaster.h" />
+    <ClInclude Include="userinterface.h" />
+    <ClInclude Include="util.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ghost.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
