@@ -2152,14 +2152,21 @@ bool CGame :: EventPlayerBotCommand( CGamePlayer *player, string command, string
 			if ((m_GameLoading || m_GameLoaded) && Pings.size() > 100)
 			{
 				// cut the text into multiple lines ingame
-
-				SendAllChat(Pings);
+				if(HideCommand)
+					SendChat(player, Pings);
+				else
+					SendAllChat(Pings);
 				Pings.clear();
 			}
 		}
 
+
+
 		if (!Pings.empty())
-			SendAllChat(Pings);
+			if (HideCommand)
+				SendChat(player, Pings);
+			else
+				SendAllChat(Pings);
 
 	}
 
