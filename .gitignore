@@ -339,3 +339,11 @@ ASALocalRun/
 .vscode
 .vscode/
 .vscode/*
+VS/src/online.txt
+VS/src/ghost.exe
+VS/src/ghost_log.txt
+VS/src/ghost.dbs
+VS/src/ghost.exp
+VS/src/ghost.lib
+VS/src/25a6634@@ghost@exe/vc142.idb
+VS/src/25a6634@@ghost@exe/25a6634@@ghost@exe.vcxproj.FileListAbsolute.txt
