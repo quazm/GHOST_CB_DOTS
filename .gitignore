@@ -332,7 +332,10 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-Release MySQL/ghost_log.txt
-Debug MySQL/ghost_log.txt
 *.tlog
 *.tlog/
+
+.directory
+.vscode
+.vscode/
+.vscode/*
