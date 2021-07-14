@@ -347,3 +347,5 @@ VS/src/ghost.exp
 VS/src/ghost.lib
 VS/src/25a6634@@ghost@exe/vc142.idb
 VS/src/25a6634@@ghost@exe/25a6634@@ghost@exe.vcxproj.FileListAbsolute.txt
+VS/src/players.txt
+VS/src/stat_string.txt
