@@ -311,11 +311,11 @@ CBaseGame::~CBaseGame()
         std::filesystem::path dir(m_GHost->m_ReplayPath + std::string(Time2));
         std::filesystem::create_directory(dir);
 
-        if (mins > 10)
-        {
+        //if (mins > 10)
+        //{
             m_Replay->BuildReplay(m_GameName, m_StatString, m_GHost->m_ReplayWar3Version, m_GHost->m_ReplayBuildNumber);
             m_Replay->Save(m_GHost->m_TFT, m_GHost->m_ReplayPath + std::string(Time2) + "\\" + UTIL_FileSafeName(std::string(Time) + " DOTS [" + m_GHost->m_Map->GetMapLocalPath() + "][" + MinString + "m" + SecString + "s].w3g"));
-        }
+        //}
     }
 
     delete m_Socket;
