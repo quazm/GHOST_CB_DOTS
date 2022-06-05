@@ -224,7 +224,8 @@ void CONSOLE_RemoveChannelUsers(uint32_t realmId)
 //
 
 int main(int argc, char **argv)
-{
+{   
+    /*
     std::ofstream StatusFile;
     StatusFile.open("online.txt", std::ios::trunc);
     if (!StatusFile.fail())
@@ -235,6 +236,7 @@ int main(int argc, char **argv)
         StatusFile << true << std::endl;
         StatusFile.close();
     }
+    */
 
     gCFGFile = "ghost.cfg";
 

@@ -274,6 +274,7 @@ CBaseGame::~CBaseGame()
         m_GHost->m_StatusBroadcaster->SendGame(NULL);
 
     //rehosting stuff
+    /*
     std::ofstream StatusFile;
     StatusFile.open("online.txt", std::ios::trunc);
     if (!StatusFile.fail())
@@ -284,6 +285,7 @@ CBaseGame::~CBaseGame()
         StatusFile << true << std::endl;
         StatusFile.close();
     }
+    */
 
     // save replay
     // todotodo: put this in a thread
@@ -1167,7 +1169,7 @@ bool CBaseGame::Update(void *fd, void *send_fd)
 
     //expire !dance
 
-    if (m_StartedDanceTime != 0 && GetTime() - m_StartedDanceTime >= 60)
+    if (m_StartedDanceTime != 0 && GetTime() - m_StartedDanceTime >= 15)
     {
         m_StartedDanceTime = 0;
     }
@@ -1191,6 +1193,7 @@ bool CBaseGame::Update(void *fd, void *send_fd)
         SendAllChat("DaNcE dAnCe DaNcE dAnCe DaNcE ");
     }
 
+    /*
     // ###write online file###
 
     if (m_GameNeedUpdateStatusOnline == true)
@@ -1270,16 +1273,6 @@ bool CBaseGame::Update(void *fd, void *send_fd)
         m_GameNeedUpdateStatusOnline = false;
     }
 
-    //new_loading_status = m_GameLoading;
-    //new_loaded_status = m_GameLoaded;
-
-    //check if need update for STATUS file (online.txt) - number of players and status
-    /*
-        if( (new_loading_status != old_loading_status) || (new_loaded_status != old_loaded_status) ) //status was changed
-        {
-            m_GameNeedUpdateStatusHost = true;
-        }*/
-
     //detected changes in status, need update
     //write status file
     if (m_GameNeedUpdateStatusHost == true)
@@ -1297,29 +1290,7 @@ bool CBaseGame::Update(void *fd, void *send_fd)
         }
         m_GameNeedUpdateStatusHost = false;
     }
-
-    //check if need update for players file (players.txt) - slots and names
-    /*for(int i = 0; i < m_Slots.size( ); i++)
-        {
-            if(m_GameSlotsStatuses[i] != old_online[i])
-                m_GameNeedUpdateStatusOnline= 1;
-        }*/
-
-    //detected changes in player list, need update
-    //write online file
-
-    //save current status for next check
-    //old_loading_status = new_loading_status;
-    //old_loaded_status = new_loaded_status;
-
-    //save current online for next check
-    //for(int i = 0; i < m_Slots.size(); i++)
-    //	old_online[i] = m_GameSlotsStatuses[i];
-
-    //count_for_online = 0;
-
-    //count_for_online++;
-
+    */
     // start the gameover timer if there's only one player left
 
     /*if( m_Players.size( ) == 1 && m_FakePlayerPID == 255 && m_GameOverTime == 0 && ( m_GameLoading || m_GameLoaded ) )
@@ -1327,7 +1298,7 @@ bool CBaseGame::Update(void *fd, void *send_fd)
         CONSOLE_Print( "[GAME: " + m_GameName + "] gameover timer started (one player left)" );
         m_GameOverTime = GetTime( );
     }*/
-
+        
     bool lessthanminpercent                  = false;
     [[maybe_unused]] bool lessthanminplayers = false;
     float remainingpercent                   = (float)m_Players.size() * 100 / (float)m_StartPlayers;
